@@ -1,6 +1,5 @@
 -Hi, I’m @jordany33
--I’m currently learning C/C++ and Python
--I’m looking to collaborate on projects
+-Student
 -You can reach me through my email at jrdeyee@gmail.com
 
 <!---
