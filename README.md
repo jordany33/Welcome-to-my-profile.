@@ -1,26 +1,7 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jordan</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Chaos in code leads to clarity in solutions</h2></summary>
   </ul>
 </div>
 
@@ -65,14 +46,6 @@
   
 </p>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **C++, Python, Swift, Nodejs, AWS**
-
-- ☁️ I've had a keen interest in iOS development. So, I'm learning **Swift**
-
-- 📫 Feel free to reach me out **jrdeyee@gmail.com**
-<!--Intro end-->
-
 
 <!--profile visit count-->
 <div align="center">
@@ -80,6 +53,3 @@
 [![](https://visitcount.itsvg.in/api?id=jordandyee&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
