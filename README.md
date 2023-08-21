@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <div align="center">
-  <h1 style="display: inline-block">🚀 Hello, Universe! I'm Nishant 👋</h1>
+  <h1 style="display: inline-block">🚀 Hello, Universe! I'm Jordan 👋</h1>
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
   <h2 style="display: inline-block">💡 "Confusion is just a step towards clarity in Programming."</h2>
   
@@ -24,7 +24,7 @@
   
   <h2 style="display: inline-block">🌐 Connect with Me!</h2>
   <p>
-    <a href="https://www.linkedin.com/in/1010nishant/"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
+    <a href="https://www.linkedin.com/in/jordandyee/"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
     <!-- ... other icons ... -->
   </p>
   
