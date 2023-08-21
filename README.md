@@ -25,6 +25,18 @@
 </div>
 
 
+<!-- The Door to My World -->
+<div align="center">
+    <h2 style="display: inline-block">🚪 Step into My Digital World</h2>
+    <p>
+        <a href="https://yeejordan.com" target="_blank">
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Enter my website" style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
+            yeejordan.com
+        </a>
+    </p>
+</div>
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
