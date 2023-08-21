@@ -25,15 +25,16 @@
 </div>
 
 
-<!-- The Door to My World -->
-<div align="center">
-    <h2 style="display: inline-block">🚪 Step into My Digital World</h2>
+<!--h2 without bottom border-->
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block; border-bottom: none;">🚪 Step into My Digital World</h2>
     <p>
         <a href="https://yeejordan.com" target="_blank">
             yeejordan.com
         </a>
     </p>
 </div>
+
 
 
 <!--h1 without bottom border-->
